@@ -13,3 +13,8 @@ C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYe
 C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Domain\obj\Debug\FinalYearProject.Domain.csprojResolveAssemblyReference.cache
 C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Domain\obj\Debug\FinalYearProject.Domain.dll
 C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Domain\obj\Debug\FinalYearProject.Domain.pdb
+C:\FinalYearProject\FinalYearProject.Domain\bin\Debug\FinalYearProject.Domain.dll
+C:\FinalYearProject\FinalYearProject.Domain\bin\Debug\FinalYearProject.Domain.pdb
+C:\FinalYearProject\FinalYearProject.Domain\obj\Debug\FinalYearProject.Domain.csprojResolveAssemblyReference.cache
+C:\FinalYearProject\FinalYearProject.Domain\obj\Debug\FinalYearProject.Domain.dll
+C:\FinalYearProject\FinalYearProject.Domain\obj\Debug\FinalYearProject.Domain.pdb

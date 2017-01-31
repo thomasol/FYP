@@ -46,3 +46,19 @@ C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYe
 C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.csprojResolveAssemblyReference.cache
 C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.dll
 C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.pdb
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Search.dll.config
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Search.dll
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Search.pdb
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.dll
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Domain.dll
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Nest.dll
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Newtonsoft.Json.dll
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Domain.pdb
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.pdb
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.xml
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Nest.pdb
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Nest.xml
+C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Newtonsoft.Json.xml
+C:\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.csprojResolveAssemblyReference.cache
+C:\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.dll
+C:\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.pdb

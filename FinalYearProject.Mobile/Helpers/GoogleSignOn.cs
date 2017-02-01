@@ -80,8 +80,8 @@ namespace FinalYearProject.Mobile.Helpers
                 user.Id = currentPerson.Id;
                 user.FullName = currentPerson.DisplayName;
                 user.ProfilePictureUrl = currentPerson.Image.Url;
-                user.Email = PlusClass.AccountApi.GetAccountName(ApiClient);
-
+                //user.Email = PlusClass.AccountApi.GetAccountName(ApiClient);
+                user.Email = "WANK";
                 _tcs.SetResult(user);
             }
         }

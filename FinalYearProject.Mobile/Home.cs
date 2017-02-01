@@ -16,7 +16,7 @@ using Plugin.Permissions;
 
 namespace FinalYearProject.Mobile
 {
-    [Activity(Label = "FinalYearProject.Mobile", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "FinalYearProject.Mobile", Icon = "@drawable/icon")]
     public class Home : AppCompatActivity
     {
         Button searchButton;
@@ -39,7 +39,7 @@ namespace FinalYearProject.Mobile
         View layout;
 
         Position pos;
-        protected override async void OnCreate(Bundle bundle)
+        protected override  void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
 

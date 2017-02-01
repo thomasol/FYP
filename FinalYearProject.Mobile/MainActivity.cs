@@ -13,9 +13,11 @@ using FinalYearProject.Mobile.Helpers;
 
 namespace FinalYearProject.Mobile
 {
-    [Activity(Label = "MainActivity")]
+    [Activity(Label = "MainActivity", MainLauncher = true)]
     public class MainActivity : Activity
     {
+        Intent nextActivity;
+
         public GoogleSignOn GoogleSignOn { get; } = new GoogleSignOn();
 
         protected override void OnCreate(Bundle savedInstanceState)
@@ -28,6 +30,8 @@ namespace FinalYearProject.Mobile
             button.Click += OnButtonClicked;
 
             GoogleSignOn.Init(this);
+
+
         }
         protected override void OnActivityResult(int requestCode, Result resultCode, Intent data)
         {
@@ -39,6 +43,8 @@ namespace FinalYearProject.Mobile
         private async void OnButtonClicked(object sender, EventArgs e)
         {
             var user = await GoogleSignOn.SignInAsync();
+            nextActivity = new Intent(this, typeof(Home));
+            StartActivity(nextActivity);
         }
     }
 }

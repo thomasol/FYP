@@ -54,9 +54,7 @@ C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Domain.dl
 C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Nest.dll
 C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Newtonsoft.Json.dll
 C:\FinalYearProject\FinalYearProject.Search\bin\Debug\FinalYearProject.Domain.pdb
-C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.pdb
 C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.xml
-C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Nest.pdb
 C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Nest.xml
 C:\FinalYearProject\FinalYearProject.Search\bin\Debug\Newtonsoft.Json.xml
 C:\FinalYearProject\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.csprojResolveAssemblyReference.cache

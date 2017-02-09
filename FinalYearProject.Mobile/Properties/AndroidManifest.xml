@@ -1,15 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="finalyearproject.mobile" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
-	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23" />
-	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.fyp" android:versionCode="1" android:versionName="1">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 	<uses-permission android:name="android.permission.CAMERA" />
-	<uses-permission android:name="android.permission.FLASHLIGHT" />
-	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 	<uses-permission android:name="android.permission.GET_ACCOUNTS" />
-	<uses-permission android:name="android.permission.USE_CREDENTIALS" />
-	<uses-permission android:name="android.permission.INTERNET" />
-	<uses-permission android:name="android.permission.GET_ACCOUNTS_PRIVILEGED" />
-	<application android:label="FinalYearProject.Mobile" android:theme="@style/MyTheme"></application>
-	<service android:name="FinalYearProject.Mobile.Services.LocationService"></service>
+	<uses-permission android:name="android.permission.FLASHLIGHT" />
+	<application android:name="MainApplication" android:label="FinalYearProject.Mobile" android:icon="@drawable/Icon" android:theme="@style/MyTheme"></application>
 </manifest>

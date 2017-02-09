@@ -20,11 +20,11 @@ C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.For
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.GooglePlayServices.Auth.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.GooglePlayServices.Base.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.GooglePlayServices.Basement.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.GooglePlayServices.Location.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.GooglePlayServices.Maps.dll
-C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.GooglePlayServices.Plus.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\ZXing.Net.Mobile.Core.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\ZXing.Net.Mobile.Forms.Android.dll
 C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\ZXing.Net.Mobile.Forms.dll

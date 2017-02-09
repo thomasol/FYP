@@ -318,10 +318,8 @@ C:\FinalYearProject\FinalYearProject.Api\bin\WebActivatorEx.dll
 C:\FinalYearProject\FinalYearProject.Api\bin\WebGrease.dll
 C:\FinalYearProject\FinalYearProject.Api\bin\FinalYearProject.Domain.pdb
 C:\FinalYearProject\FinalYearProject.Api\bin\FinalYearProject.Search.pdb
-C:\FinalYearProject\FinalYearProject.Api\bin\Elasticsearch.Net.pdb
 C:\FinalYearProject\FinalYearProject.Api\bin\Elasticsearch.Net.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\FinalYearProject\FinalYearProject.Api\bin\Nest.pdb
 C:\FinalYearProject\FinalYearProject.Api\bin\Nest.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\Newtonsoft.Json.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\System.Net.Http.Formatting.xml
@@ -334,7 +332,6 @@ C:\FinalYearProject\FinalYearProject.Api\bin\System.Web.Razor.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\System.Web.WebPages.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\System.Web.WebPages.Deployment.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\System.Web.WebPages.Razor.xml
-C:\FinalYearProject\FinalYearProject.Api\bin\Antlr3.Runtime.pdb
 C:\FinalYearProject\FinalYearProject.Api\bin\EntityFramework.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\EntityFramework.SqlServer.xml
 C:\FinalYearProject\FinalYearProject.Api\bin\Microsoft.AspNet.Identity.Core.xml

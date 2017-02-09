@@ -267,10 +267,7 @@ C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Microsoft.Owin.Security
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\FinalYearProject.Api.pdb
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\FinalYearProject.Domain.pdb
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\FinalYearProject.Search.pdb
-C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Elasticsearch.Net.pdb
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Elasticsearch.Net.xml
-C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Nest.pdb
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Nest.xml
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\FinalYearProject\FinalYearProject.Api.Tests\bin\Debug\System.Net.Http.Formatting.xml

@@ -1,0 +1,15 @@
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\FinalYearProject.Mobile.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Java.Interop.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Mono.Android.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\mscorlib.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\System.Core.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\System.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\System.Xml.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\fypp\AndroidApp1\AndroidApp1\obj\Release\android\assets\System.ServiceModel.Internals.dll
